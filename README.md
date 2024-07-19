@@ -5,7 +5,7 @@ This is a web application built using the Laravel framework for managing events.
 ## Features
 
 - Add Event: Users can add a new event with a title, date, and location.
-- View Events: All registered events are displayed in the "Event Details" section.
+- View Events: All registered events are displayed in the "Get Event Details" section.
 - Edit Event: Users can edit the details of an existing event.
 - Delete Event: Users can delete an event.
 

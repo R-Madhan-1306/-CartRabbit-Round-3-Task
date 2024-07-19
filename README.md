@@ -14,7 +14,7 @@ This is a web application built using the Laravel framework for managing events.
 - PHP >= 7.4
 - Composer
 - Laravel >= 8.0
-- MySQL
+- XAMPP
 
 ## Installation
 
